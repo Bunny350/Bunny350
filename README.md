@@ -6,3 +6,4 @@ The current repository he ranges includes:
 * Minecraft Add-ons source codes.
 
 Anyways anyone can come here and contribute to make 
+>Something that is free from obstacles by resolving them.
