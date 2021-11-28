@@ -1,4 +1,7 @@
-> **OITSWILLIAM PANG** and the Open Source. Sometimes makes products that already exists, but other times don't.
+> Build the crazy and cry about it. Cry about it and get the achievement. - srabbit 604 2 / XG
+
+
+**OITSWILLIAM PANG** and the Open Source. Sometimes makes products that already exists, but other times don't.
 
 The current repository he ranges includes:
 * 3D printer frames,
