@@ -1,4 +1,4 @@
-> Build the crazy and cry about it. Cry about it and get the achievement. - srabbit 604 2 / XG
+> It is just the beginning of building something else. Build the crazy and cry about it. Cry about it and get the achievement. - [srabbit 604 2 / XG](https://github.com/Bunny350/srabbit-604)
 
 
 **OITSWILLIAM PANG** and the Open Source. Sometimes makes products that already exists, but other times don't.
