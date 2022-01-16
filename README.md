@@ -1,6 +1,6 @@
 **OITSWILLIAM PANG** and the Open Source. Sometimes makes products that already exists, but other times don't.
 
-OITSWILLIAM PANG (real name: William Pang) is a hobbyist and cometimes a techie who is interested in making new products and "beefing-up" some of other's features. He also debunks
+OITSWILLIAM PANG (real name: William Pang) is a hobbyist and cometimes a techie who is interested in making new products and "beefing-up" some of other's features. He also debunks fake or unreal contents.
 
 The current repository he ranges includes:
 * Original designs (i.e. BabyDrone, srabbit),
