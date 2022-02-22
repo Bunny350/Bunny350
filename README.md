@@ -8,7 +8,6 @@ The current repository he ranges includes:
 * Website designs and source codes made with [Silex](https://github.com/silexlabs/Silex),
 * Minecraft Add-ons source codes.
 
-Anyways anyone can come here and contribute to make 
->Something that is free from obstacles by resolving them.
+Anyways anyone can come here and contribute to make something that is free from obstacles by resolving them. Just know how to fork and every of my projects will be constantly improved by the communities.
 
 The account was created in August 24, 2015 for tryouts, which made [madness robot](https://github.com/Bunny350/madness-robot) empty repository. It was then reused in November 2021.
