@@ -5,6 +5,7 @@ Oitswilliam Pang (real name: Pang William) is a hobbyist, tinkerer, CADster (who
 The current repository he ranges includes:
 * Original designs,
 * Insane everyday mods for already existing products made by someone else,
+* Projects exclusive to followers in Facebook, Instagram and YouTube.
 * Website designs and source codes made with [Silex](https://github.com/silexlabs/Silex),
 
 Anyone can come here and contribute to make something that is free from obstacles by resolving them. Just know how to fork and every of my projects will be constantly improved by the communities.
