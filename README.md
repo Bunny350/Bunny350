@@ -17,9 +17,6 @@ My account was created in August 24, 2015 for tryouts, among stupid things, whic
   
 | Name | Current stage | Release date and time |
 | ---- | ------------- | --------------------- |
-| EXS for Voron 0 | [Alpha-EA](https://github.com/Bunny350/Miscellaneous-projects/tree/main/Alpha-EA%20licensing%20document) | June 15 |
-| NUC Skirt for Voron 2 150mm | EA | June 15 |
-| Mainsail intuitive UI mod concept | In development | June 15 |
 | ELG3 | Not ready | Early 2027 |
   
 </details>
