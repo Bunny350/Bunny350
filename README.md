@@ -17,7 +17,7 @@ My account was created in August 24, 2015 for tryouts, among stupid things, whic
   
 | Name | Current stage | Release date and time |
 | ---- | ------------- | --------------------- |
-| Exhaust Lite Integrated controller | Ready | December 24 |
-| ELG3 | Not ready | Early 2027 |
+| Exhaust Lite Integrated controller | Alpha-EA | December 24 |
+| ELG3 | Ready | Early 2027 |
   
 </details>
